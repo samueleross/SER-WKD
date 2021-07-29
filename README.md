@@ -1,1 +1,1 @@
-# samueleross-WKD
+# openpgpkey.samueleross.com
